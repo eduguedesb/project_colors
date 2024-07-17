@@ -84,3 +84,5 @@ l_app_nome = Label(frame_baixo,text='Seletor de Cores',  bg=cor1, font=("Ivy", 1
 l_app_nome.grid(row=0, column=3, padx=40)
 
 janela.mainloop()
+
+# Projeto de estudo!
